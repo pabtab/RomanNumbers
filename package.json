@@ -1,0 +1,13 @@
+{
+  "name": "upcodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scriptRoman.js",
+  "scripts": {
+    "dev": "node scriptRoman",
+    "test": "node --test scriptRoman.spec.js"
+  },
+  "author": "pabtab",
+  "license": "ISC",
+  "type": "module"
+}
